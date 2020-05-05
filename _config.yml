@@ -2,4 +2,4 @@ safe: true
 lsi: false
 highlighter: pygments
 
-theme: jekyll-theme-dinky
+theme: jekyll-theme-minimal
